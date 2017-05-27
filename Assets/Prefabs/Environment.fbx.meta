@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 8011331fca399d44d9b0d98d85f76251
+timeCreated: 1495537208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Board
+    100002: body
+    100004: body 1
+    100006: body 2
+    100008: body 3
+    100010: body 4
+    100012: body 5
+    100014: body 6
+    100016: Buttom
+    100018: Chemestry_lab
+    100020: Closing
+    100022: Disk
+    100024: down
+    100026: //RootNode
+    100028: Glass
+    100030: glass
+    100032: Glass 1
+    100034: Glass 2
+    100036: Glass 3
+    100038: Glass 4
+    100040: Glass 5
+    100042: Glasses
+    100044: handle
+    100046: handle 1
+    100048: handle 2
+    100050: handle 3
+    100052: handle 4
+    100054: handle 5
+    100056: History
+    100058: Interance
+    100060: Liquid
+    100062: liquid
+    100064: Liquid 1
+    100066: liquid 1
+    100068: Liquid 2
+    100070: Liquid 3
+    100072: Liquid 4
+    100074: locker_1
+    100076: locker_2
+    100078: locker_3
+    100080: locker_4
+    100082: locker_5
+    100084: locker_6
+    100086: lockers
+    100088: Math
+    100090: Science_bool
+    100092: Separator_1
+    100094: Separators
+    100096: Space
+    100098: Tester
+    100100: Tester1
+    100102: Tester2
+    100104: Tester3
+    100106: Tester4
+    100108: Tester5
+    100110: Tester6
+    100112: Tester_simulate
+    100114: Tester_simulate1
+    100116: up
+    100118: Walls
+    100120: Walls 1
+    100122: Walls 2
+    100124: Walls 3
+    100126: Walls 4
+    100128: Walls 5
+    400000: Board
+    400002: body
+    400004: body 1
+    400006: body 2
+    400008: body 3
+    400010: body 4
+    400012: body 5
+    400014: body 6
+    400016: Buttom
+    400018: Chemestry_lab
+    400020: Closing
+    400022: Disk
+    400024: down
+    400026: //RootNode
+    400028: Glass
+    400030: glass
+    400032: Glass 1
+    400034: Glass 2
+    400036: Glass 3
+    400038: Glass 4
+    400040: Glass 5
+    400042: Glasses
+    400044: handle
+    400046: handle 1
+    400048: handle 2
+    400050: handle 3
+    400052: handle 4
+    400054: handle 5
+    400056: History
+    400058: Interance
+    400060: Liquid
+    400062: liquid
+    400064: Liquid 1
+    400066: liquid 1
+    400068: Liquid 2
+    400070: Liquid 3
+    400072: Liquid 4
+    400074: locker_1
+    400076: locker_2
+    400078: locker_3
+    400080: locker_4
+    400082: locker_5
+    400084: locker_6
+    400086: lockers
+    400088: Math
+    400090: Science_bool
+    400092: Separator_1
+    400094: Separators
+    400096: Space
+    400098: Tester
+    400100: Tester1
+    400102: Tester2
+    400104: Tester3
+    400106: Tester4
+    400108: Tester5
+    400110: Tester6
+    400112: Tester_simulate
+    400114: Tester_simulate1
+    400116: up
+    400118: Walls
+    400120: Walls 1
+    400122: Walls 2
+    400124: Walls 3
+    400126: Walls 4
+    400128: Walls 5
+    2300000: Board
+    2300002: body
+    2300004: body 1
+    2300006: body 2
+    2300008: body 3
+    2300010: body 4
+    2300012: body 5
+    2300014: body 6
+    2300016: down
+    2300018: Glass
+    2300020: glass
+    2300022: Glass 1
+    2300024: Glass 2
+    2300026: Glass 3
+    2300028: Glass 4
+    2300030: Glass 5
+    2300032: Glasses
+    2300034: handle
+    2300036: handle 1
+    2300038: handle 2
+    2300040: handle 3
+    2300042: handle 4
+    2300044: handle 5
+    2300046: Liquid
+    2300048: liquid
+    2300050: Liquid 1
+    2300052: liquid 1
+    2300054: Liquid 2
+    2300056: Liquid 3
+    2300058: Liquid 4
+    2300060: Separator_1
+    2300062: Tester_simulate
+    2300064: Tester_simulate1
+    2300066: up
+    2300068: Walls
+    2300070: Walls 1
+    2300072: Walls 2
+    2300074: Walls 3
+    2300076: Walls 4
+    2300078: Walls 5
+    3300000: Board
+    3300002: body
+    3300004: body 1
+    3300006: body 2
+    3300008: body 3
+    3300010: body 4
+    3300012: body 5
+    3300014: body 6
+    3300016: down
+    3300018: Glass
+    3300020: glass
+    3300022: Glass 1
+    3300024: Glass 2
+    3300026: Glass 3
+    3300028: Glass 4
+    3300030: Glass 5
+    3300032: Glasses
+    3300034: handle
+    3300036: handle 1
+    3300038: handle 2
+    3300040: handle 3
+    3300042: handle 4
+    3300044: handle 5
+    3300046: Liquid
+    3300048: liquid
+    3300050: Liquid 1
+    3300052: liquid 1
+    3300054: Liquid 2
+    3300056: Liquid 3
+    3300058: Liquid 4
+    3300060: Separator_1
+    3300062: Tester_simulate
+    3300064: Tester_simulate1
+    3300066: up
+    3300068: Walls
+    3300070: Walls 1
+    3300072: Walls 2
+    3300074: Walls 3
+    3300076: Walls 4
+    3300078: Walls 5
+    4300000: Walls
+    4300002: Separator_1
+    4300004: Walls
+    4300006: Walls
+    4300008: Walls
+    4300010: Board
+    4300012: body
+    4300014: body
+    4300016: handle
+    4300018: body
+    4300020: handle
+    4300022: body
+    4300024: handle
+    4300026: body
+    4300028: handle
+    4300030: body
+    4300032: handle
+    4300034: body
+    4300036: handle
+    4300038: glass
+    4300040: up
+    4300042: down
+    4300044: liquid
+    4300046: Glass
+    4300048: liquid
+    4300050: Glass
+    4300052: Liquid
+    4300054: Glass
+    4300056: Liquid
+    4300058: Glass
+    4300060: Liquid
+    4300062: Glass
+    4300064: Liquid
+    4300066: Glass
+    4300068: Liquid
+    4300070: Tester_simulate1
+    4300072: Tester_simulate
+    4300074: Walls
+    4300076: Walls
+    4300078: Glasses
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
